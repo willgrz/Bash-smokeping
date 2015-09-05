@@ -1,5 +1,4 @@
 + London-UK-Vultr                                                                                                                                                                               
 menu = London, UK, Vultr                                                                                                                                                                        
-probe = RemoteFPing # if the default probe is something else                                                                                                                                    
-host = london-uk-vultr                                                                                                                                                                          
+probe = london-uk-vultr                                                                                                                                                                          
                                                                                                                                                                                                 

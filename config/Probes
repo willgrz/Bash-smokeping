@@ -21,3 +21,6 @@ ruser = root
 #timeout = 1.5
 #tos = 0x20
 usestdout = true
+
+++london-uk-vultr
+rhost = london-uk-vultr

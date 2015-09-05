@@ -1,0 +1,14 @@
+*** Targets ***                                                                                                                                                                                 
+
+probe = FPing
+
+menu = Top
+title = Top
+remark = Main smokeping server probe
+
+
+
++ Local
+
+menu = Graz, Austria, Drei.at
+title = Graz-Austria-Dreiat

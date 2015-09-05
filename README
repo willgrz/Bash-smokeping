@@ -1,1 +1,10 @@
 #some scripts for smokeping target creation etc
+#needs smokeping installed like this:
+#aptitude install smokeping curl libauthen-radius-perl libnet-ldap-perl libnet-dns-perl libio-socket-ssl-perl libnet-telnet-perl libsocket6-perl libio-socket-inet6-perl apache2 sendmail apache2-modperl
+#put gen.php into /etc/smokeping
+#put targetlist into /etc/smokeping/targets
+#put cron.sh in /etc/smokeping and run once daily to regenerate target list
+#put updatesm.sh in /etc/smokeping and run once daily (after cron.sh) to regenerate target files and restart SM
+#put staticlink.sh in /etc/smokeping
+#put static.sh in /etc/smokeping and run in a loop all 15-60 minutes
+#config examples are in config/
